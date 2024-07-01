@@ -1,0 +1,4 @@
+20240627	16:50:17	d11df026-1dda-46d3-bdac-47fa3638377d	Error: details parameter required
+20240627	17:22:01	a88c351d-2720-460f-ae5d-a6f572e484c9	Error: details parameter required
+20240627	17:22:39	1633e683-5dd4-48e3-85f6-573b6072001c	Error: details parameter required
+20240627	17:23:37	fbcb72e0-8b4c-4cd4-8f54-379b7272ff4c	Error: details parameter required
